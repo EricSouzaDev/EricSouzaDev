@@ -2,7 +2,6 @@
 # Olá! Eu sou o Eric Souza 🖐
 	
 ![Eric Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSouzaDev&show_icons=true&theme=highcontrast)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSouzaDev&layout=compact&theme=highcontrast)
 
 ## Tecnológias que eu uso no meu dia
